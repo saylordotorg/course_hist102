@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: A Changing World Balance** <span id="6"></span> 
 *By 1400, a fundamental shift was occurring among the world’s
 civilizations.  Chinese and Middle Eastern empires had been at the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST102: Early Globalizations: East Meets West (1200s-1600s)"
 ----------------------------------------------------------------------------------
 

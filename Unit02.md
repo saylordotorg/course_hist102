@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Europe: East and West** <span id="2"></span> 
 *In the wake of the collapse of the Roman Empire, two major
 civilizations emerged in Europe during the early medieval period.  The

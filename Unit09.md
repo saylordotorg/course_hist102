@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Muslim Empires** <span id="9"></span> 
 *The Mongol invasions of the thirteenth and fourteenth centuries broke
 apart a unified Muslim world.  But in the wake of these invasions, three

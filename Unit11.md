@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: East Asia and Its Trading World** <span id="11"></span> 
 *The pre-modern world of South and East Asia was a diverse one linked
 together by commerce.  Most politically and culturally independent Asian

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: China's Golden Age** <span id="4"></span> 
 *After the fall of the Han dynasty in 589 C.E., China descended into
 political and cultural turmoil.  The bureaucracy collapsed and a

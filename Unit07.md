@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Transformation of the West** <span id="7"></span> 
 *Beginning in the fifteenth century, western Europe underwent a number
 of profound changes.  First, Europe developed many commercial and

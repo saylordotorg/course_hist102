@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST102: Early Globalizations - East Meets West (1200s-1600s)"
+course_description: "An introductory survey of the major civilizations from the Middle Ages to the Early Modern Era, focusing on the political, social, cultural, and economic interactions and exchanges between those civilizations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Americas: Aztecs and Incas** <span id="3"></span> 
 *When Christopher Columbus landed in the New World in 1492, he
 mistakenly referred to the native inhabitants as “Indians,” thus

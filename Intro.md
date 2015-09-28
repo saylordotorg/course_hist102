@@ -150,3 +150,4 @@ studied relate to the topics covered in previous sections of the course.
 - [Unit 10](https://legacy.saylor.org/hist102/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist102/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist102/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST102/HIST102-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST102/HIST102-FinalExam-Answers.html)

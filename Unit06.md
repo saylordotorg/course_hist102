@@ -95,7 +95,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
       
      Instructions: Please read the sections titled “Introduction” and
@@ -191,7 +191,7 @@ Upon successful completion of this unit, students will be able to:
     America (1588 – 1701)”**
     Link: Connexions: James Ross-Nazzal’s [“Ch. 3 British Colonial
     America (1588 –
-    1701)”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST102-6.2.4-BritishColonialAmerica15881701.pdf) (PDF)  
+    1701)”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-6.2.4-BritishColonialAmerica15881701.pdf) (PDF)  
       
      Instructions: This article concerns the establishment of the first
     English colonies in North America in the early 17<sup>th</sup>
@@ -206,7 +206,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the section titled “The English in North
@@ -222,7 +222,7 @@ Upon successful completion of this unit, students will be able to:
 **6.2.5 The Dutch in the New World** <span id="6.2.5"></span> 
 -   **Reading: Boundless: “The Dutch Empire”**
     Link: Boundless: [“The Dutch
-    Empire”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST102-6.2.5-EmpiresinConflict.pdf) (PDF)  
+    Empire”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-6.2.5-EmpiresinConflict.pdf) (PDF)  
       
      Instruction: This article examines the establishment of Dutch
     colonies in North America.  
@@ -236,7 +236,7 @@ Upon successful completion of this unit, students will be able to:
 **6.2.6 Native Americans and Europeans** <span id="6.2.6"></span> 
 -   **Reading: Boundless: “Englishmen and Native Americans”**
     Link: Boundless: [“Englishmen and Native
-    Americans”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST102-6.2.6-BritishEmpireinNorthAmerica.pdf) (PDF)  
+    Americans”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-6.2.6-BritishEmpireinNorthAmerica.pdf) (PDF)  
       
      Instructions: The European exploration and settlement of North
     America devastated the Native American population. This article
@@ -252,7 +252,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the section titled “The Columbian
@@ -269,7 +269,7 @@ Upon successful completion of this unit, students will be able to:
 **6.3 Trade and Exchange** <span id="6.3"></span> 
 -   **Reading: Boundless: “The Clash of Culture”**
     Link: Boundless: “[“The Clash of
-    Culture”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST102-6.3-ExplorationandConquest.pdf) (PDF)  
+    Culture”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-6.3-ExplorationandConquest.pdf) (PDF)  
       
      Instructions: This article discusses the impact of the introduction
     of new epidemic diseases to native populations with the European
@@ -318,7 +318,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the sections “Disease” and “Ecological
@@ -338,7 +338,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Assessment: The Saylor Foundation's "Reading Questions for Subunit
     6.3"**
     Link: The Saylor Foundation's "[Reading Questions for Subunit
-    6.3](http://www.saylor.org/site/wp-content/uploads/2011/06/HIST102-Assignment6.3-FINAL.pdf)"
+    6.3](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment6.3-FINAL.pdf)"
     (PDF)  
         
      Instructions: Once you have worked through all of the assigned
@@ -346,7 +346,7 @@ Upon successful completion of this unit, students will be able to:
     respond to all questions.  When you are done--or if you are
     stuck--please check your work against The Saylor Foundation's
     "[Guide to Responding to Reading Questions for Subunit
-    6.3](http://www.saylor.org/site/wp-content/uploads/2011/06/HIST102-Assignment6.3-GTR-FINAL.pdf)"
+    6.3](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment6.3-GTR-FINAL.pdf)"
     (PDF).
 
 -   **Activity: The Saylor Foundation’s “Unit 6 Essay: Primary and

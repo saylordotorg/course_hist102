@@ -322,7 +322,7 @@ id="9.3.5"></span> 
 -   **Assessment: The Saylor Foundation's "Reading Questions for Subunit
     9.3"**
     Link: The Saylor Foundation's "[Reading Questions for Subunit
-    9.3](http://www.saylor.org/site/wp-content/uploads/2011/06/HIST102-Assignment9.3-FINAL.pdf)"
+    9.3](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment9.3-FINAL.pdf)"
     (PDF)  
         
      Instructions: Once you have worked through all of the assigned
@@ -330,7 +330,7 @@ id="9.3.5"></span> 
     respond to all questions.  When you are done--or if you are
     stuck--please check your work against The Saylor Foundation's
     "[Guide to Responding to Reading Questions for Subunit
-    9.3](http://www.saylor.org/site/wp-content/uploads/2011/06/HIST102-Assignment9.3-GTR-FINAL.pdf)"
+    9.3](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment9.3-GTR-FINAL.pdf)"
     (PDF).
 
 -   **Activity: The Saylor Foundation’s “Unit 9 Essay: The Muslim

@@ -118,11 +118,11 @@ id="1.1"></span> 
 -   **Assessment: The Saylor Foundation's “Reading Questions for Subunit
     1.1”**
     Link: The Saylor Foundation's [“Reading Questions for Subunit
-    1.1”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST102-Reading-Questions-for-Subunit-1.1-FINAL.pdf) (PDF)  
+    1.1”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST102-Reading-Questions-for-Subunit-1.1-FINAL.pdf) (PDF)  
       
      Instructions: Complete the linked assessment. When you are
     finished, compare your response to The Saylor Foundation's [“Guide
     to Responding to Subunit 1.1 Reading
-    Questions”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST102-Guide-to-Responding-to-Subunit-1.1-FINAL.pdf). (PDF)
+    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST102-Guide-to-Responding-to-Subunit-1.1-FINAL.pdf). (PDF)
 
 

@@ -125,13 +125,13 @@ id="2.1.3"></span> 
 -   **Assessment: The Saylor Foundation's "Reading Questions for Subunit
     2.1"**
     Link: The Saylor Foundation's "[Reading Questions for Subunit
-    2.1](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST102-Reading-Questions-for-Subunit-2.1-FINAL.pdf)"
+    2.1](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST102-Reading-Questions-for-Subunit-2.1-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please complete the assessment linked above.  When
     you are finished, compare your response to The Saylor Foundation's
     "[Guide to Responding to Subunit 2.1's Reading
-    Questions](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST102-Guide-to-Responding-to-Subunit-2.1-FINAL.pdf)."
+    Questions](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST102-Guide-to-Responding-to-Subunit-2.1-FINAL.pdf)."
     (PDF)
 
 **2.2 Western Europe: The Middle Ages** <span id="2.2"></span> 
@@ -180,7 +180,7 @@ id="2.2.2"></span> 
     the Question of Intentionality”**
     Link: Virginia Tech: Joseph J. Duggan’s [“The Hero Roland and the
     Question of
-    Intentionality”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST102-2.1.2-TheHeroRoland.pdf) (PDF)  
+    Intentionality”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-2.1.2-TheHeroRoland.pdf) (PDF)  
       
      Instructions: Charlemagne’s efforts to expand his power into the
     Iberian Peninsula were the inspiration for The Song of Roland, one
@@ -365,13 +365,13 @@ id="2.2.2"></span> 
 -   **Assessment: The Saylor Foundation's "Reading Questions for Subunit
     2.2"**
     Link: The Saylor Foundation's "[Reading Questions for Subunit
-    2.2](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST102-Reading-Questions-for-Subunit-2.2-FINAL.pdf)"
+    2.2](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST102-Reading-Questions-for-Subunit-2.2-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please complete the assessment linked above.  When
     you are finished, compare your response to The Saylor Foundation's
     "[Guide to Responding to Subunit 2.2's Reading
-    Questions](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST102-Guide-to-Responding-to-Subunit-2.2-FINAL.pdf)."
+    Questions](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST102-Guide-to-Responding-to-Subunit-2.2-FINAL.pdf)."
     (PDF)
 
 

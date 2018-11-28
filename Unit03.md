@@ -33,7 +33,7 @@ Upon successful completion of this unit, students will be able to:
 **3.1 Rise of the Aztecs** <span id="3.1"></span> 
 -   **Reading: Boundless: “Tenoctitlan”**
     Link: Boundless:
-    [“Tenoctitlan”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-3.1-Tenoctitlan.pdf) (PDF)  
+    [“Tenoctitlan”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST102-3.1-Tenoctitlan.pdf) (PDF)  
       
      Instruction: This article discusses the emergence of the Aztec
     Empire in Mexico and describes its great capital city of
@@ -50,7 +50,7 @@ Upon successful completion of this unit, students will be able to:
     of World History: America: AD 1401 - 1500”**
     Link: Connexions: Jack E. Maxfield’s [“A Comprehensive Outline of
     World History: America: AD 1401 -
-    1500”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-3.1.1-AmericaAD1401to1500.pdf) (PDF)  
+    1500”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST102-3.1.1-AmericaAD1401to1500.pdf) (PDF)  
       
      Instructions: Please read this select section and study the culture
     of the Aztec Empire of Mexico at its greatest extent.  
@@ -82,7 +82,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Assessment: The Saylor Foundation's "Reading Questions for Subunit
     3.1"**
     Link: The Saylor Foundation's "[Reading Questions for Subunit
-    3.1](https://resources.saylor.org/archived/wp-content/uploads/2014/02/HIST102-Assignment3.1-FINAL.pdf)"
+    3.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/02/HIST102-Assignment3.1-FINAL.pdf)"
     (PDF)  
       
      Instructions: Once you have worked through all of the assigned
@@ -90,7 +90,7 @@ Upon successful completion of this unit, students will be able to:
     respond to all questions.  When you are done--or if you are
     stuck--please check your work against The Saylor Foundation's
     "[Guide to Responding to Reading Questions for Subunit
-    3.1](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment3.1-GTR-FINAL.pdf)"
+    3.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST102-Assignment3.1-GTR-FINAL.pdf)"
     (PDF).
 
 **3.2 World of the Incas** <span id="3.2"></span> 
@@ -116,7 +116,7 @@ Upon successful completion of this unit, students will be able to:
 id="3.2.1"></span> 
 -   **Reading: Boundless: “The Incas”**
     Link: Boundless: [“The
-    Incas”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST102-3.2.1-The-Incas.pdf) (PDF)  
+    Incas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST102-3.2.1-The-Incas.pdf) (PDF)  
       
      Instructions: This article will discuss three important aspects of
     Incan culture: Machu Picchu, which was the administrative and

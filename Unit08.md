@@ -154,7 +154,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation's "Reading Questions for Subunit
     8.1"**
     Link: The Saylor Foundation's "[Reading Questions for Subunit
-    8.1](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment8.1-FINAL.pdf)"
+    8.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST102-Assignment8.1-FINAL.pdf)"
     (PDF)  
         
      Instructions: Once you have worked through all of the assigned
@@ -162,7 +162,7 @@ Upon successful completion of this unit, the student will be able to:
     respond to all questions.  When you are done--or if you are
     stuck--please check your work against The Saylor Foundation's
     "[Guide to Responding to Reading Questions for Subunit
-    8.1](https://resources.saylor.org/archived/wp-content/uploads/2011/06/HIST102-Assignment8.1-GTR-FINAL.pdf)"
+    8.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/HIST102-Assignment8.1-GTR-FINAL.pdf)"
     (PDF).
 
 **8.2 The Portuguese in Brazil** <span id="8.2"></span> 
